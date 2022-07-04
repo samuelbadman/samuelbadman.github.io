@@ -13,3 +13,6 @@ Uses Direct3D 12 and DirectX Raytracing APIs to render an interactive rasterized
 [Video](https://youtu.be/a-uPv0uRfuM)  
 [GitHub Repository](https://github.com/samuelbadman/Retro-fps-vulkan)  
 Inspired by the original DOOM and Castle Wolfenstein, this project creates a first person shooter game where the player explores levels and defeats monsters to find the exit. The game was created for the Windows x64 platform and rendered with Vulkan.
+
+### Socials
+[LinkedIn](https://www.linkedin.com/in/samuelbadman/)
