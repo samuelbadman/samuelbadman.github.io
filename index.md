@@ -15,7 +15,18 @@ A C++ codebase created for Windows x64 platform that uses Direct3D 12 and Direct
 ![fps_screenshot](https://user-images.githubusercontent.com/72559002/177293014-43fa308e-51ca-43b0-88fa-1a71f15e4c1c.png)  
 [Video](https://youtu.be/a-uPv0uRfuM)  
 [GitHub repository](https://github.com/samuelbadman/Retro-fps-vulkan)  
-Inspired by the original DOOM and Castle Wolfenstein, this project creates a first person shooter game where the player explores levels and defeats monsters to find the exit. The game was created in a C++ codebase for Windows x64 platform and rendered with Vulkan.
+Inspired by the original DOOM and Castle Wolfenstein, this project creates a first person shooter game where the player explores levels and defeats monsters to find the exit. The game was created as a C++ codebase for Windows x64 platform and rendered with Vulkan.
+
+#### Asteroid Field
+![af](https://user-images.githubusercontent.com/72559002/177335119-80fd182f-1a21-4ddb-b7e4-b2237484990c.png)  
+[Video](https://www.youtube.com/watch?v=Goq778xf95g)  
+Asteroid Field is a single player game that challenges the player with avoiding asteroids as they fly through the asteroid field. The player can use their ship's weapons to destroy asteroids however, must manage their weapon's temperature.
+The game was created as a C++ codebase for Windows x64 platform and uses Win32, Direct3D 11, XInput and XAudio2.
+
+#### 3D Landscape
+![l](https://user-images.githubusercontent.com/72559002/177336240-5a11d0f5-6164-4291-9198-e72647d2b2b6.png)  
+[Video](https://www.youtube.com/watch?v=kbX84EKYkJE)  
+This project features a landscape mesh generated from a loaded heightmap texture and fog, particle and water effects. Implemented as a C++ codebase and rendered with OpenGL.
 
 #### Spy League Training
 ![sl](https://user-images.githubusercontent.com/72559002/177327838-c441b1c3-d7a3-44c1-bd78-bc2748cf7b27.png)  
