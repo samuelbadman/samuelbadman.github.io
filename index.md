@@ -1,6 +1,7 @@
 # Samuel Badman
 Games Technology graduate.
 
+![showreel_mashup](https://user-images.githubusercontent.com/72559002/177298693-e6a86dbf-667d-4631-a829-0e76709fd61d.png)  
 [Portfiolio Showreel](https://www.youtube.com/watch?v=1e-Ch_J7K_M)
 
 ### Highlighted projects
