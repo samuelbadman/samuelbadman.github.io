@@ -36,6 +36,13 @@ This project features a landscape mesh generated from a loaded heightmap texture
 Spy League Training is a single or local two player multiplayer game where the player/s must survive waves of enemies for as long as possible.
 This is an Unreal Engine 4 project implemented with C++ and Blueprint for the [Grads in Games Search For A Star competition](https://gradsingames.com/game-dev-challenges/search-for-a-star/) and was awarded the one to watch award.
 
+#### Mystery Adventure Game
+![ld](https://user-images.githubusercontent.com/72559002/177338894-34a6de51-c657-40c6-90c3-dc5cbba7c6a3.png)  
+[Video](https://www.youtube.com/watch?v=jlq0oM9qn-s)  
+[Video with alternate ending](https://www.youtube.com/watch?v=NUAPWxwwUC8)  
+The player takes on the role of a private detective who has travelled to an isolated island community to investigate reports of mysterious disappearances.
+This project was created in Unreal Engine 4 and gameplay mechanics were implemented with Blueprint.
+
 #### Owlina
 ![o](https://user-images.githubusercontent.com/72559002/177332635-086c7e73-9229-4e18-8d5f-9677ee89f9b1.png)  
 [Video](https://www.youtube.com/watch?v=gzC-SGv-xO4)  
