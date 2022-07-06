@@ -1,5 +1,7 @@
 ![showreel_mashup](https://user-images.githubusercontent.com/72559002/177298693-e6a86dbf-667d-4631-a829-0e76709fd61d.png)  
 [Portfiolio showreel](https://www.youtube.com/watch?v=1e-Ch_J7K_M)
+    
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1e-Ch_J7K_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Highlighted projects
 #### Real-time raytraced shadows (C++, HLSL, Win32, Direct3D 12, DirectXRaytracing, glm, stb_image, Dear ImGui)
