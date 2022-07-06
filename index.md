@@ -63,7 +63,7 @@ This project implements a mechanic that creates a black hole that will pull in s
 ![h](https://user-images.githubusercontent.com/72559002/177333039-5076c422-4f82-45f2-a540-ad6347434fc9.png)  
 [Video](https://www.youtube.com/watch?v=MwQbkXDdyz8)  
 Helix is a virtual reality game where the player must explore and find tools to help them to progress through the level and evade a dangerous monster.
-The project was created in Unreal Engine 4 with C++ and Blueprint.
+The project was created by a team of six developers with Unreal Engine 4. Personally responsible for implementing the gameplay mechanics and systems with C++ and Blueprint.
 
 ### Socials
 [LinkedIn](https://www.linkedin.com/in/samuelbadman/)
