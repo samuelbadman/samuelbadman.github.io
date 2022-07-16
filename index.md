@@ -52,5 +52,9 @@ This project implements a mechanic that creates a black hole that will pull in s
 Helix is a virtual reality game where the player must explore and find tools to help them to progress through the level and evade a dangerous monster.
 The project was created by a team of six developers with Unreal Engine 4. Personally responsible for implementing the gameplay mechanics and systems with C++ and Blueprint.
 
+#### Kojima Wars
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5Do8V0F5KU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Kojima Wars is a networked multiplayer game where two teams battle for points of control on an island map in competitve online first person shooter multiplayer. This project was completed by a team of 30 people using Unity and C#. Personally responsible for implementing the networking framework backend systems to enable gameplay to be implemented for online multiplayer.
+
 ### Socials
 [LinkedIn](https://www.linkedin.com/in/samuelbadman/)
