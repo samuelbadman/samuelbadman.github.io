@@ -57,5 +57,5 @@ The project was created by a team of six developers with Unreal Engine 4. Person
 Kojima Wars is a networked multiplayer game where two teams battle for points of control on an island map in competitve online first person shooter multiplayer. This project was completed by a team of 30 people using Unity and C#. Personally responsible for implementing the networking framework backend systems to enable gameplay to be implemented for online multiplayer.
 
 ### Socials
-[LinkedIn](https://www.linkedin.com/in/samuelbadman/)
+[LinkedIn](https://www.linkedin.com/in/samuelbadman/)  
 Contact email: samuelbadman@outlook.com
