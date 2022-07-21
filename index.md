@@ -58,3 +58,4 @@ Kojima Wars is a networked multiplayer game where two teams battle for points of
 
 ### Socials
 [LinkedIn](https://www.linkedin.com/in/samuelbadman/)
+Contact email: samuelbadman@outlook.com
